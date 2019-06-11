@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.acorp.jhipster",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.0.1",
+    "applicationType": "microservice",
+    "baseName": "jhipsterMicroservice",
+    "packageName": "com.acorp.jhipster",
+    "packageFolder": "com/acorp/jhipster",
+    "serverPort": "8089",
+    "authenticationType": "oauth2",
+    "cacheProvider": "memcached",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "M2JmODk3ZTJiYjdiNTNjZjhhMDU2ZjUxOWQ1Mzg3NDU3YmYyNTlhOTc3MjM5ODk1ZGUwNzFiNWIxMTkyN2U1YzNlZjA5ODQwYzI0ODYwYjMwMjI4YzMxZjI1YmFkMDA4ODNhOWQyMjkyNGRkNGVjYTk1Y2U5MmE4NDdjOTQzYmQ=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
